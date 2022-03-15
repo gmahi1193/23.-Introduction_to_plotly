@@ -1,0 +1,1 @@
+This project gives basic knowledge about plotly library which is used for visualization.
